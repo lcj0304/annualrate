@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">annualrate</string>
+    <string name="title_apr_calculator">信用卡年化利率计算器</string>
+    <string name="label_principal">贷款总金额</string>
+    <string name="label_periods">分期数</string>
+    <string name="label_installment">每期还款</string>
+    <string name="action_calculate">开始计算</string>
+    <string name="result_total_paid">总还款</string>
+    <string name="result_total_interest">总利息</string>
+    <string name="result_period_rate">每期利率</string>
+    <string name="result_nominal_apr">名义年化利率</string>
+    <string name="result_effective_apr">实际年化利率</string>
+    <string name="error_invalid_input">请输入有效的数字</string>
+    <string name="label_results">计算结果</string>
+    <string name="mode_by_installment">按每期还款</string>
+    <string name="mode_by_total_interest">按总利息</string>
+    <string name="label_total_interest">总利息</string>
+    <string name="error_invalid_principal_periods">请输入有效的贷款总金额和分期数</string>
+    <string name="error_invalid_payment_or_interest">请输入有效的还款金额或总利息</string>
+    <string name="mode_by_interest_rate">按利率</string>
+    <string name="label_interest_rate_percent">利息占总额百分比 (%)</string>
+    <string name="error_invalid_payment_or_interest_or_rate">请输入有效的还款金额、总利息或利率</string>
+</resources>
